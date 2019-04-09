@@ -1,0 +1,2 @@
+java -jar validation-0.0.1-SNAPSHOT.jar
+Í£Ö¹£ºctrl+c
